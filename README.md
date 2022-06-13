@@ -1,5 +1,5 @@
 # renderTexture-fractal
-Using camera as renderTexture to create video feedback loop texture
+Using camera as renderTexture to create video fractal feedback loop texture
 
 
 
